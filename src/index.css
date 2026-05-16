@@ -4,11 +4,13 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color-scheme: dark;
+  background-color: #111118;
 }
 
 body {
   margin: 0;
   -webkit-overflow-scrolling: touch;
+  background-color: #111118;
 }
 
 .no-scrollbar::-webkit-scrollbar { display: none; }
